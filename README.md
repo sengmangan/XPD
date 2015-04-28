@@ -1,22 +1,22 @@
-# Paycoin Official Development Repository
+# PaycoinDarkOfficial Development Repository
 
 ## What is Paycoin?
 
-Paycoin is a Paycoin network-compatible, community-developed wallet client.
+PaycoinDarkis a PaycoinDarknetwork-compatible, community-developed wallet client.
 
-The project has been designed to provide people with a stable, secure, and feature-rich alternative to the Paycoin reference wallet (https://github.com/PaycoinFoundation/PaycoinDark).
+The project has been designed to provide people with a stable, secure, and feature-rich alternative to the PaycoinDarkreference wallet (https://github.com/PaycoinFoundation/PaycoinDark).
 
 To help faciliate broad community cooperation, a number of trusted Paycoin/Peershares community leaders have write permissions to the project's codebase, allowing for decentralization and continuity. Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
 
 
-### Paycoin Resources
+### PaycoinDarkResources
 * Source: [Source Code](https://github.com/PaycoinFoundation/PaycoinDark)
 * Documentation: [Build Instructions](https://github.com/PaycoinFoundation/PaycoinDark/tree/master/doc)
 * Support: [Talk Paycoin](http://talk.PaycoinDark.com/categories/coin-code), [Issue Tracker](https://github.com/PaycoinFoundation/PaycoinDark/issues)
 
 
 ### About Paycoin
-[Paycoin](https://PaycoinDark.com/) (abbreviated XPY), also known as Paycoin and Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://PaycoinDark.com) as a security model, with a combined [proof-of-stake](https://PaycoinDark.com)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Paycoin is based on [Peercoin](http://www.peercoin.net/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+[Paycoin](https://PaycoinDark.com/) (abbreviated XPY), also known as PaycoinDarkand Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://PaycoinDark.com) as a security model, with a combined [proof-of-stake](https://PaycoinDark.com)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. PaycoinDarkis based on [Peercoin](http://www.peercoin.net/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
 
 ## Repo Guidelines
